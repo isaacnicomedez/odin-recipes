@@ -1,12 +1,12 @@
 # Recipe Website
 
-A simple HTML Recipe Website, you can [view it here](https://isaacnicomedez.github.io/odin-recipes/)
+A simple HTML Recipe Website, you can [view it here](https://isaacnicomedez.github.io/odin-recipes/).
 
 This project will strengthen my understanding with the fundamental concepts and best practices when it comes to HTML document structure, file organization, CLI, and git commands and commit comments.
 
 ## Credits
 
-Images used in this project:
+Authors of images used in this project:
 
 - [Brent Hofacker](https://www.shutterstock.com/g/Brent+Hofacker)
 - [wirestock](https://www.freepik.com/author/wirestock)
