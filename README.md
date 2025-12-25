@@ -1,13 +1,15 @@
-This project is a simple Recipe Website
+# Recipe Website
 
-This will further integrate to my understanding the foundational concepts and best practices of HTML document structures, file organization, CLI, and git commit & comments.
+A a simple HTML Recipe Website, you can view it here: ![https://isaacnicomedez.github.io/odin-recipes/] (/index.html)
+
+This project will strengthen my understanding with the fundamental concepts and best practices when it comes to HTML document structure, file organization, CLI, and git commands & comments.
 
 ## Credits
 
 Images used in this project:
 
-- &copy; Brent Hofacker / Adobe Stock
-- &copy; wirestock / Freepik
-- &copy; yummykitchentv.com
+- [Brent Hofacker] (https://www.shutterstock.com/g/Brent+Hofacker)
+- [wirestock] (https://www.freepik.com/author/wirestock)
+- [yummykitchentv.com] (https://yummykitchentv.com/)
 
-Images obtained from the sites above are used for educational purposes only.
+Images obtained from these sites were used for educational purposes only.
